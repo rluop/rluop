@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is **Ralph Lorenzo**, a 4th-year CS student. Some info about me:
+My name is **Ralph Lorenzo**, a newly graduated computer scientist. Some info about me:
 
 ### Hobbies
 - video games
@@ -9,8 +9,9 @@ My name is **Ralph Lorenzo**, a 4th-year CS student. Some info about me:
     - fun fact: I've tried playing **_four instruments_** in my life (with varying degrees of success). The drums are what I'm currently most invested in.
 
 ### Current happenings
-- locking in for my undergraduate degree (!!!)
+- locking in on the job hunt!!!
 - developing a story-driven, turn-based RPG game
+- thinking of new games to develop...
 
 <!--
 **rluop/rluop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
